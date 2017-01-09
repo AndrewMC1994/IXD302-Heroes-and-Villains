@@ -1,4 +1,4 @@
-<b>IXD302 - Narrative and Storytelling</b>
+# IXD302-Heroes-and-Villains
 
 Heroes and Villains Project Website: https://andrewmc1994.github.io/IXD302-Heroes-and-Villains/
 
